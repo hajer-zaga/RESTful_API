@@ -28,6 +28,8 @@ node client.js
 You should see 'Listening on port 3000' in the terminal.
 
 
+
+
 5. **Run the server**: Open a new terminal window in VSCode and run the following command to start the server:
 
 ```
